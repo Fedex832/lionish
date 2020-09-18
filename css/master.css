@@ -8,26 +8,28 @@
 }
 
 header {
-  background: url("asset/lion_banner.jpg");
-  height: 500px;
+  background: url("../asset/lion_banner.jpg");
+  background-size: cover;
+  height: 900px;
+  color: white;
 }
 
 .header--text {
   width: 25%;
-  padding: 100px 200px;
-  min-width: 220px;
+  padding: 325px 300px;
+  min-width: 325px;
+
 }
 
-.header--text h1 {
-  font-size: 10px;
-  margin-bottom: 50px;
+.header--text span:nth-child(1) {
+  font-size: 20px;
 }
 
 .header--text h2 {
-  font-size: 40px;
+  font-size: 70px;
   font-weight: bold;
-  margin: 10px 0px;
+  margin: 40px 0px 10px 0px;
 }
-.header--text span {
-  font-size: 10px;
+.header--text span:last-child {
+  font-size: 18px;
 }
