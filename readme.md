@@ -1,7 +1,8 @@
 # Lionish
 ## Context
 The landing page of Logan Creative Studio's website.
-###Structure
+### Structure
+```bash
 ├── assets
 │   └── lion_banner.jpg
 ├── css
@@ -9,4 +10,4 @@ The landing page of Logan Creative Studio's website.
 │   └── reset.css
 ├── index.html
 └── readme.md
-###
+`̀``
