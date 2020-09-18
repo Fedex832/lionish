@@ -30,6 +30,54 @@ header {
   font-weight: bold;
   margin: 40px 0px 10px 0px;
 }
+
 .header--text span:last-child {
   font-size: 18px;
+}
+
+.article1 {
+  width: 60%;
+  padding: 200px 20%;
+  min-width: 1000px;
+}
+
+.article1--text {
+  float: left;
+  width: 60%;
+}
+
+.article1--text span {
+  font-size: 25px;
+  color: grey;
+}
+
+.article1--text h2 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.article1--text p {
+  color: grey;
+  display: block;
+  width: 300px;
+  padding-left: 200px;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.article1--text span:last-child {
+  color: black;
+  position: relative;
+  bottom: 0px;
+}
+
+.aritcle1--image {
+  width: 40%;
+  height: 270px;
+  float: left;
+}
+
+.aritcle1--image img {
+  height: 100%;
+  width: auto;
 }
